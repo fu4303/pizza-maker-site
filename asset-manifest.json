@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pizza-framer-site/static/css/main.af9e611b.chunk.css",
+    "main.js": "/Pizza-framer-site/static/js/main.7cf23102.chunk.js",
+    "main.js.map": "/Pizza-framer-site/static/js/main.7cf23102.chunk.js.map",
+    "runtime-main.js": "/Pizza-framer-site/static/js/runtime-main.82c0b8d1.js",
+    "runtime-main.js.map": "/Pizza-framer-site/static/js/runtime-main.82c0b8d1.js.map",
+    "static/js/2.424e4e62.chunk.js": "/Pizza-framer-site/static/js/2.424e4e62.chunk.js",
+    "static/js/2.424e4e62.chunk.js.map": "/Pizza-framer-site/static/js/2.424e4e62.chunk.js.map",
+    "index.html": "/Pizza-framer-site/index.html",
+    "precache-manifest.e0a8985111c8aa2b6349207285fa1aee.js": "/Pizza-framer-site/precache-manifest.e0a8985111c8aa2b6349207285fa1aee.js",
+    "service-worker.js": "/Pizza-framer-site/service-worker.js",
+    "static/css/main.af9e611b.chunk.css.map": "/Pizza-framer-site/static/css/main.af9e611b.chunk.css.map",
+    "static/js/2.424e4e62.chunk.js.LICENSE.txt": "/Pizza-framer-site/static/js/2.424e4e62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82c0b8d1.js",
+    "static/js/2.424e4e62.chunk.js",
+    "static/css/main.af9e611b.chunk.css",
+    "static/js/main.7cf23102.chunk.js"
+  ]
+}
