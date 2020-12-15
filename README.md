@@ -1,6 +1,6 @@
 # Pizza-framer-site
 
-## [Check it live here](https://muchirijane.github.io/)
+## [Check it live here](https://muchirijane.github.io/Pizza-framer-site/)
 
 ## About the site
 
